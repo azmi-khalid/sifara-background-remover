@@ -1,4 +1,4 @@
-# 🚀 Sifara Tech AI | Professional Background Remover
+# 🚀 Sifara Tech AI | Sifara Background Remover
 
 An advanced web-based application designed for high-precision automatic image background removal. This project leverages the **BiRefNet** (Bilateral Reference Network) architecture, deployed via a **Flask** backend and powered by **PyTorch**.
 

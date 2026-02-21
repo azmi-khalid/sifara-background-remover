@@ -22,10 +22,15 @@ To run this project locally, ensure you have Python 3.9+ installed.
    ```bash
    git clone [https://github.com/azmi-khalid/ai-background-remover.git](https://github.com/azmi-khalid/ai-background-remover.git)
    cd ai-background-remover
-   
-👨‍💻 About the Developer
-Developed by Azmi Khalid, a seasoned professional with 24 years of experience in the banking industry. Throughout his career, Azmi has held various management and leadership roles, successfully leading teams and complex projects.
 
-As a fast learner with a passion for innovation, he is currently bridging his extensive background in finance with cutting-edge technology. This project is a testament to his dedication to mastering Artificial Intelligence, Python Development, and Data Science to build smart, real-world solutions.
 
-"Code is like a loan: well-structured, purpose-driven, and best when it delivers value." 💡
+  ---
+
+## 👨‍💻 About the Developer
+
+**Azmi Khalid** is a seasoned professional and **Vice President** at a state-owned bank with **24 years of experience** in management and leadership. Throughout his career, Azmi has held various strategic roles, successfully leading high-impact teams and complex financial projects.
+
+As a **fast learner** with a passion for innovation, he is currently bridging his extensive background in finance with cutting-edge technology. This project is a testament to his dedication to mastering **Artificial Intelligence**, **Python Development**, and **Data Science** to build smart, secure, and real-world solutions.
+
+> ### 💡 Corporate Philosophy
+> *"Code is like a loan: well-structured, purpose-driven, and best when it delivers value."*
